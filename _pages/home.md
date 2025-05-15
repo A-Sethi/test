@@ -58,10 +58,15 @@ The CHIRAL Lab (Center for High-Impact Research in Asymmetric Ligands) at Panjab
 
 FUNDING
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/dst_logo.jpg" style="width: 130px">
-</figure>
+1. Synthesis and Characterization ofNovel Chiral Boron Complexes and Their Applications in Asymmetric Diels Alder Reactions - SERB
+2. Novel Cascade Reactions for Asymmetric Synthesis of Highly Functionalized N-Heterocycles and Their Use in Total Synthesis - DST
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/serb_logo.png" style="width: 130px">
-</figure>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <figure class="fifth" style="margin-right: 20px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/dst_logo.jpg" style="width: 130px">
+  </figure>
+  <figure class="fifth">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/serb_logo.png" style="width: 130px">
+  </figure>
+</div>
