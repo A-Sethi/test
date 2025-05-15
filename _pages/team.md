@@ -78,7 +78,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 
 
-## Master and Bachelor Students
+## Master, Bachelor and Internship Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
