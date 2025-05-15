@@ -1,9 +1,9 @@
-#- name:
-#  photo: rock.jpg
-#  info:
+- name: Deepti Ubba
+ photo: Deepti.jpg
+ info: MSc Student, started in 2024
 #  email:
-#  number_educ:
-#  education1:
+ number_educ: 1
+ education1: BSc Medical, 2023, DN College, Hisar, India, 2023
 #  education2:
 #  education3:
 #  education4:
