@@ -2,24 +2,37 @@
   <div class="panel-footer">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-4">
-          <p>&copy; 2025 Agarwal Lab.</p>
+        <div class="col-sm-3">
+          <p>&copy; 2025 CHIRAL Lab</p>
         </div>
         <div class="col-sm-4">
-          <p>We are part of Department of Chemistry at Panjab University</p>
+          <p>We are part of Department of Chemistry @ Panjab University</p>
         </div>
-        <div class="col-sm-4">
-          <p>
-            Contact:<br />
-            Department of Chemistry, Panjab University<br />
-            Sector -14, Chandigarh, 160014<br />
-            India
-          </p>
+        <div class="col-sm-5">
+          <p>Contact:</p>
+          <p>Department of Chemistry, Panjab University</p>
+          <p>Sector -14, Chandigarh, 160014</p>
+          <p>India</p>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+<style>
+  /* Prevent text from breaking at unexpected places */
+  #footer p {
+    margin-bottom: 5px;
+    white-space: nowrap; /* Prevents text from wrapping within paragraphs */
+  }
+  
+  /* Make sure the footer text is responsive */
+  @media (max-width: 768px) {
+    #footer p {
+      white-space: normal; /* Allow wrapping on small screens */
+    }
+  }
+</style>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
-
