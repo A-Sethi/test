@@ -59,5 +59,5 @@ The CHIRAL Lab (Center for High-Impact Research in Asymmetric Ligands) at Panjab
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dst_logo.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dst_logo.jpg" style="width: 130px">
 </figure>
