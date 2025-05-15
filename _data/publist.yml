@@ -1,19 +1,19 @@
-- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
+- title: "MgCl2-mediated activation of C-5 alkyl coumalates in aqueous medium for the synthesis of [2.2.2]-bicyclic lactones via DAINV reaction"
   image: BSCCO_noise.png
-  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+  description: This work represents a straightforward protocol for converting the less reactive C-5 alkyl coumalates especially renewable, bio-based and non-hazardous feedstock methyl coumalate into essential synthetic motifs.
+  authors: Mamta Guleria, Divya Tagra, Aman Kumar, Jyoti Agarwal
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
+    url: https://doi.org/10.1039/D4NJ05422A
+    display: New Journal of Chemistry
   highlight: 1
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+- title: "Tailoring the naphtho-[2,3]-furan framework for Pb2+ ion sensing through substitutional effect"
   image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  description: This article describes the synthesis of naphthofuran-based probes NF, NNF, and BNF via a multiple-step synthetic approach and their characterization using standard spectroscopic techniques. The chemosensing properties of all these probes have been investigated using UV-visible and fluorescence spectroscopy. One of them showed chemoselectivity towards Pb2+ detection. 
+  authors: Sonia Ali, Sakshi Joshi, Jyoti Agarwal
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://doi.org/10.1016/j.molstruc.2024.139562
+    display: Journal of Molecular Structure
   highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
