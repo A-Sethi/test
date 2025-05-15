@@ -56,8 +56,12 @@ The CHIRAL Lab (Center for High-Impact Research in Asymmetric Ligands) at Panjab
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://a-sethi.github.io/test/) **!**
 
-
+FUNDING
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/dst_logo.jpg" style="width: 130">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/dst_logo.jpg" style="width: 130px">
+</figure>
+
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/serb_logo.png" style="width: 130px">
 </figure>
