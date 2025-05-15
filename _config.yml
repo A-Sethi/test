@@ -11,7 +11,7 @@ email: jagarwal@pu.ac.in
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Agarwal Lab.
 baseurl: "/test"
-url: "www.a-sethi.github.io"
+url: "https://a-sethi.github.io"
 
 include:
   - .htaccess
