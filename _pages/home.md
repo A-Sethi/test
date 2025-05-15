@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+<p style="text-align: justify">
 The CHIRAL Lab (Center for High-Impact Research in Asymmetric Ligands) at Panjab University, Chandigarh, is dedicated to advancing the field of asymmetric organic synthesis through innovative research and sustainable methodologies. Our team focuses on the design and development of novel chiral catalysts and ligands to achieve precise stereocontrol in organic transformations. We explore cutting-edge strategies for asymmetric C–C and C–X bond formations, with applications in the synthesis of biologically active molecules, pharmaceuticals, and agrochemicals. Combining mechanistic studies, computational insights and experimental rigor, we aim to address key challenges in synthetic chemistry.
-
-
+</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -59,5 +59,5 @@ The CHIRAL Lab (Center for High-Impact Research in Asymmetric Ligands) at Panjab
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dst_logo.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/dst_logo.jpg" style="width: 130">
 </figure>
