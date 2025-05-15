@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: CHIRAL Lab – Center for High-Impact Research in Asymmetric Ligands
+email: jagarwal@pu.ac.in
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
-baseurl: ""
-url: ""
+  Website of the Agarwal Lab.
+baseurl: "/test"
+url: "www.a-sethi.github.io"
 
 include:
   - .htaccess
