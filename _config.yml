@@ -10,7 +10,7 @@ title: CHIRAL Lab – Center for High-Impact Research in Asymmetric Ligands
 email: jagarwal@pu.ac.in
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Agarwal Lab.
-baseurl: "/test"
+baseurl: "/test2"
 url: "https://a-sethi.github.io"
 
 include:
